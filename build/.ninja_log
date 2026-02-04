@@ -1,0 +1,22 @@
+# ninja log v7
+21	208	7877510471056056	CMakeFiles/android_memory.dir/src/memory.cpp.o	fb36c5af616d2bc0
+86	1270	7919048363708398	CMakeFiles/memory_test.dir/test/main.cpp.o	b7078d59cd2f274b
+8	285	7919050204254099	libandroid_memory.a	23b3d55952b9e4c7
+2770	3189	7901512513736991	memory_test	8ab28d3ba4e40446
+15	986	7891365174385792	CMakeFiles/android_memory.dir/src/parse_maps.cpp.o	ed47f1a906867a1a
+6	632	7891583771108045	CMakeFiles/android_memory.dir/src/read_file.cpp.o	502b0d18c9e73d1c
+22	1086	7891365174452170	CMakeFiles/android_memory.dir/src/parse_status.cpp.o	2d562778e52b714b
+5	687	7891365174282044	CMakeFiles/android_memory.dir/src/parse_base.cpp.o	6b19a6bf28d114d1
+8	1041	7893117697035701	CMakeFiles/android_memory.dir/src/read_write.cpp.o	890c4117f8b74e86
+115	1379	7919048364006503	CMakeFiles/memory_test.dir/test/pros/test_maps.cpp.o	d7dfada3eacaeee7
+22	812	7919050780470780	CMakeFiles/memory_test.dir/test/pros/test_search.cpp.o	b43803d1e2d9581a
+19	349	7883395644422832	CMakeFiles/android_memory.dir/src/size.cpp.o	1539f1e2c5cf47ca
+167	1490	7919048364520901	CMakeFiles/memory_test.dir/test/pros/test_status_parse.cpp.o	63e187bf29bba699
+27	1756	7919048363123549	CMakeFiles/android_memory.dir/src/src.cpp.o	4ee2c00026d97ba2
+23	2768	7901512486269901	CMakeFiles/memory_test.dir/test/pros/test_read.cpp.o	4847bbb021b2e932
+2	240	7919051097407691	build.ninja	7dc2a0edf055e63f
+2	240	7919051097347466	C:/mydev/cpp/android_memory/build/cmake_install.cmake	7dc2a0edf055e63f
+2	240	7919051097362514	C:/mydev/cpp/android_memory/build/third-party/pfr/cmake_install.cmake	7dc2a0edf055e63f
+2	240	7919051097372578	C:/mydev/cpp/android_memory/build/third-party/pfr/CTestTestfile.cmake	7dc2a0edf055e63f
+7	1105	7919052159033925	CMakeFiles/memory_test.dir/test/pros/test_read.cpp.o	4847bbb021b2e932
+1105	1473	7919052170025149	memory_test	8ab28d3ba4e40446

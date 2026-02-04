@@ -1,0 +1,29 @@
+"C:\Program Files\JetBrains\CLion 2025.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -DCMAKE_C_COMPILER=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -DCMAKE_CXX_COMPILER=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -S C:\mydev\cpp\android_memory -B C:\mydev\cpp\android_memory\build
+CMake Deprecation Warning at C:/MyApp/android-ndk-r25c/build/cmake/android.toolchain.cmake:34 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  build/CMakeFiles/4.0.2/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at C:/MyApp/android-ndk-r25c/build/cmake/android-legacy.toolchain.cmake:34 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  C:/MyApp/android-ndk-r25c/build/cmake/android.toolchain.cmake:54 (include)
+  build/CMakeFiles/4.0.2/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/mydev/cpp/android_memory/build

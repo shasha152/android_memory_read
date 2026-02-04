@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/mydev/cpp/android_memory/build/cmake_install.cmake",
+		"C:/mydev/cpp/android_memory/build/third-party/pfr/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

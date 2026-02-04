@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIC -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\android_memory.dir\\src\\parse_base.cpp.o -c C:\\mydev\\cpp\\android_memory\\src\\parse_base.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\src\\parse_base.cpp",
+  "output": "CMakeFiles\\android_memory.dir\\src\\parse_base.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIC -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\android_memory.dir\\src\\parse_maps.cpp.o -c C:\\mydev\\cpp\\android_memory\\src\\parse_maps.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\src\\parse_maps.cpp",
+  "output": "CMakeFiles\\android_memory.dir\\src\\parse_maps.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIC -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\android_memory.dir\\src\\parse_status.cpp.o -c C:\\mydev\\cpp\\android_memory\\src\\parse_status.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\src\\parse_status.cpp",
+  "output": "CMakeFiles\\android_memory.dir\\src\\parse_status.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIC -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\android_memory.dir\\src\\read_write.cpp.o -c C:\\mydev\\cpp\\android_memory\\src\\read_write.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\src\\read_write.cpp",
+  "output": "CMakeFiles\\android_memory.dir\\src\\read_write.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIC -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\android_memory.dir\\src\\size.cpp.o -c C:\\mydev\\cpp\\android_memory\\src\\size.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\src\\size.cpp",
+  "output": "CMakeFiles\\android_memory.dir\\src\\size.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIC -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\android_memory.dir\\src\\src.cpp.o -c C:\\mydev\\cpp\\android_memory\\src\\src.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\src\\src.cpp",
+  "output": "CMakeFiles\\android_memory.dir\\src\\src.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIE -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\memory_test.dir\\test\\main.cpp.o -c C:\\mydev\\cpp\\android_memory\\test\\main.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\test\\main.cpp",
+  "output": "CMakeFiles\\memory_test.dir\\test\\main.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIE -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\memory_test.dir\\test\\pros\\test_maps.cpp.o -c C:\\mydev\\cpp\\android_memory\\test\\pros\\test_maps.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\test\\pros\\test_maps.cpp",
+  "output": "CMakeFiles\\memory_test.dir\\test\\pros\\test_maps.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIE -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\memory_test.dir\\test\\pros\\test_read.cpp.o -c C:\\mydev\\cpp\\android_memory\\test\\pros\\test_read.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\test\\pros\\test_read.cpp",
+  "output": "CMakeFiles\\memory_test.dir\\test\\pros\\test_read.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIE -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\memory_test.dir\\test\\pros\\test_search.cpp.o -c C:\\mydev\\cpp\\android_memory\\test\\pros\\test_search.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\test\\pros\\test_search.cpp",
+  "output": "CMakeFiles\\memory_test.dir\\test\\pros\\test_search.cpp.o"
+},
+{
+  "directory": "C:/mydev/cpp/android_memory/build",
+  "command": "C:\\MyApp\\android-ndk-r25c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android24 --sysroot=C:/MyApp/android-ndk-r25c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -IC:/mydev/cpp/android_memory/./include -IC:/mydev/cpp/android_memory/third-party/pfr/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -frtti -fexceptions  -O3 -DNDEBUG  -std=gnu++20 -fPIE -fansi-escape-codes -fcolor-diagnostics -o CMakeFiles\\memory_test.dir\\test\\pros\\test_status_parse.cpp.o -c C:\\mydev\\cpp\\android_memory\\test\\pros\\test_status_parse.cpp",
+  "file": "C:\\mydev\\cpp\\android_memory\\test\\pros\\test_status_parse.cpp",
+  "output": "CMakeFiles\\memory_test.dir\\test\\pros\\test_status_parse.cpp.o"
+}
+]

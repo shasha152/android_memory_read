@@ -1,0 +1,6 @@
+C:/mydev/cpp/android_memory/build/CMakeFiles/android_memory.dir
+C:/mydev/cpp/android_memory/build/CMakeFiles/memory_test.dir
+C:/mydev/cpp/android_memory/build/CMakeFiles/edit_cache.dir
+C:/mydev/cpp/android_memory/build/CMakeFiles/rebuild_cache.dir
+C:/mydev/cpp/android_memory/build/third-party/pfr/CMakeFiles/edit_cache.dir
+C:/mydev/cpp/android_memory/build/third-party/pfr/CMakeFiles/rebuild_cache.dir
